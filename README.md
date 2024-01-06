@@ -1,2 +1,12 @@
-# subtitles
-字幕文件保存
+`CODE GEASS`全系列([这是字幕源](https://bbs.acgrip.com/thread-11236-1-2.html))  
+银魂([这是字幕源](https://bbs.acgrip.com/thread-7538-1-2.html))  
+干物妹！小埋([S1](https://bbs.acgrip.com/forum.php?mod=viewthread&tid=1190),[S2](https://bbs.acgrip.com/forum.php?mod=viewthread&tid=3312),[OVA+SP](https://bbs.acgrip.com/forum.php?mod=viewthread&tid=1319))  
+K-ON([这是字幕源](https://bbs.acgrip.com/thread-4519-1-1.html))  
+笨蛋测验召唤兽([这是字幕源](https://bbs.acgrip.com/forum.php?mod=viewthread&tid=610))  
+伪恋([这是字幕源](https://bbs.acgrip.com/forum.php?mod=viewthread&tid=5856))  
+龙与虎([这是字幕源](https://bbs.acgrip.com/forum.php?mod=viewthread&tid=4769))  
+碧蓝之海([这是字幕源](https://bbs.acgrip.com/forum.php?mod=viewthread&tid=4812))  
+四月是你的谎言(太大了就不上传github了[这是字幕源](https://bbs.acgrip.com/thread-9298-1-1.html))  
+游戏人生([这是字幕源](https://bbs.acgrip.com/forum.php?mod=viewthread&tid=5675&highlight=%E7%89%B9%E6%95%88%E5%AD%97%E5%B9%95))  
+凉宫春日系列(`VCB`版的压制所有，还没下)  
+犬夜叉(等`magic-raws`出美版就开压)  
